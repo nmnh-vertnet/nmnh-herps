@@ -1,0 +1,377 @@
+Report for Institution Code USNM, Resource nmnh_herps
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 315
+Number of records retrieved in searches: 3750
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Costa Rica ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 15
+	Country: Mexico ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Romania ; Times: 3
+	Country: South Africa ; Times: 8
+	Country: Thailand ; Times: 5
+	Country: United States ; Times: 253
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 33
+	Date: 2014-07-02 ; Times: 51
+	Date: 2014-07-03 ; Times: 8
+	Date: 2014-07-04 ; Times: 2
+	Date: 2014-07-06 ; Times: 7
+	Date: 2014-07-07 ; Times: 4
+	Date: 2014-07-08 ; Times: 7
+	Date: 2014-07-09 ; Times: 12
+	Date: 2014-07-10 ; Times: 4
+	Date: 2014-07-11 ; Times: 48
+	Date: 2014-07-12 ; Times: 19
+	Date: 2014-07-13 ; Times: 2
+	Date: 2014-07-14 ; Times: 6
+	Date: 2014-07-15 ; Times: 10
+	Date: 2014-07-16 ; Times: 6
+	Date: 2014-07-18 ; Times: 7
+	Date: 2014-07-19 ; Times: 3
+	Date: 2014-07-20 ; Times: 2
+	Date: 2014-07-21 ; Times: 6
+	Date: 2014-07-22 ; Times: 7
+	Date: 2014-07-24 ; Times: 12
+	Date: 2014-07-25 ; Times: 2
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-27 ; Times: 1
+	Date: 2014-07-28 ; Times: 14
+	Date: 2014-07-29 ; Times: 15
+	Date: 2014-07-30 ; Times: 13
+	Date: 2014-07-31 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Ecuador" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: "stateprovince:"Cauca" country:"Colombia" genus:Lepidoblepharis" ; Times: 1
+	Query: "graptemys versa" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 3
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Gekko mindorensis" ; Times: 1
+	Query: "Philodryas mattogrossensis" ; Times: 1
+	Query: "crocodile" ; Times: 1
+	Query: "Gonocephalus sophiae" ; Times: 1
+	Query: "dendropsophus phlebodes" ; Times: 2
+	Query: "aspidoscelis maxima" ; Times: 3
+	Query: "Lithobates sierramadrensis" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lansbergii genus:Porthidium" ; Times: 2
+	Query: "pseudoeurycea nigromaculata" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "genus:Rana year >= 1901 year <= 1901" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 4
+	Query: "Rhacophorus pardalis philippines" ; Times: 1
+	Query: "Gonocephalus philippines" ; Times: 1
+	Query: "USNM 406592" ; Times: 2
+	Query: "kinixys homeana" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Prionodactylus" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "nmnh 496790" ; Times: 1
+	Query: "spea intermontana siskiyou county" ; Times: 1
+	Query: "diadophis stateprovince:"utah"" ; Times: 4
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "genus:Rana institutioncode:USNM" ; Times: 1
+	Query: "Ptenopus kochi" ; Times: 3
+	Query: "Rhacodactylus auriculatus" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "Celestus occiduus" ; Times: 3
+	Query: "sanzinia" ; Times: 1
+	Query: "country:"Panama" genus:Sceloporus" ; Times: 2
+	Query: "Owego" ; Times: 1
+	Query: "Philautus leitensis" ; Times: 1
+	Query: "specificepithet:palmeri genus:Echinosaura" ; Times: 1
+	Query: "Kaloula conjuncta philippines" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:nasutum genus:Porthidium" ; Times: 1
+	Query: "Brachymeles cebuensis" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:"New Jersey"" ; Times: 1
+	Query: "burti arizona" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Podarcis lilfordi" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "specificepithet:panamensis genus:Echinosaura" ; Times: 1
+	Query: "country:"Panama" specificepithet:vertebralis genus:Prionodactylus" ; Times: 1
+	Query: ""caiman crocodilus" country:"Peru" year <= 2011" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 3
+	Query: "Bronchocela cristatella philippines" ; Times: 1
+	Query: "stateprovince:"Huanuco" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "specificepithet:nebulata genus:Sibon" ; Times: 3
+	Query: "vipera berus country:"romania"" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "Eleutherodactylus jasperi" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Rana muscosa institutioncode:USNM" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Diploglossus" ; Times: 1
+	Query: "specificepithet:ocellata genus:Anadia" ; Times: 1
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "crotalus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Cnemidophorus arubensis" ; Times: 4
+	Query: "Heterodon institutioncode:USNM" ; Times: 2
+	Query: "subviridis" ; Times: 2
+	Query: "monopeltis galeata" ; Times: 1
+	Query: "Sternotherus odoratus stateprovince:"New Jersey"" ; Times: 1
+	Query: "pseudotriton stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "pituophis ruthveni" ; Times: 6
+	Query: "Pseudogekko compressicorpus" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "polypedates hastypestatus:1" ; Times: 1
+	Query: "Kalophrynus pleurostigma philippines" ; Times: 1
+	Query: "specificepithet:decipiens genus:Urotheca" ; Times: 3
+	Query: "stateprovince:"Colon" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "pseudemoia" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 5
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: ""Salvadora" stateprovince:"California"" ; Times: 2
+	Query: "Varanus olivaceus" ; Times: 1
+	Query: "Platysaurus ocellatus" ; Times: 1
+	Query: "cockroach" ; Times: 1
+	Query: "Macroscincus coctaei" ; Times: 4
+	Query: "thamnophis hammondii Santa Barbara County" ; Times: 1
+	Query: "Ahaetulla prasina philippines" ; Times: 1
+	Query: "Vipera" ; Times: 4
+	Query: "ascaphus truei year >= 1800 year <= 1900" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "stateprovince:"Canal Zone" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "Megophrys stejnegeri philippines" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: "Cyrtodactylus agusanensis" ; Times: 1
+	Query: "Polypedates (Thailand)" ; Times: 2
+	Query: "genus:Micrurus dumerilii" ; Times: 2
+	Query: "Cemophora coccinea copei" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sibon" ; Times: 1
+	Query: "limnonectes macrocephalus" ; Times: 1
+	Query: "Pseudogekko philippines" ; Times: 1
+	Query: "country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "Uromastyx aegyptius (dry)" ; Times: 1
+	Query: "country:"Colombia" genus:Lepidoblepharis" ; Times: 1
+	Query: "Isopachys" ; Times: 2
+	Query: "country:"Panama" specificepithet:festae genus:Ptychoglossus" ; Times: 1
+	Query: "specificepithet:apodemus genus:Neusticurus" ; Times: 1
+	Query: "Barbourula busuangensis" ; Times: 2
+	Query: "trimorphodon vilkinsonii" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "taricha torosa Santa Barbara County" ; Times: 2
+	Query: "Angolosaurus skoogi" ; Times: 2
+	Query: "rhinoclemmys pulcherrima Mexico" ; Times: 1
+	Query: "brachymeles samarensis" ; Times: 1
+	Query: "country:"Panama" specificepithet:plicatus genus:Ptychoglossus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:rhombifer genus:Drymobius" ; Times: 1
+	Query: "stateprovince:"Madre de Dios" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Uromastyx aegyptius" ; Times: 2
+	Query: "incilius alvarius" ; Times: 1
+	Query: "Caretta Caretta" ; Times: 1
+	Query: "cynisca" ; Times: 1
+	Query: "Hemidactylus lankae" ; Times: 5
+	Query: "anaxyrus cognatus" ; Times: 4
+	Query: "Gyalopion canum" ; Times: 3
+	Query: "vipera ursinii" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "Gonatodes fuscus" ; Times: 1
+	Query: "Danby stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "pristimantis altae" ; Times: 2
+	Query: "stateprovince:"Panama" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:scripta genus:trachemys year >= 1970 mappable:1" ; Times: 2
+	Query: "Egernia stokesii" ; Times: 1
+	Query: "New Jersey Kinosternon subrubrum stateprovince:"New Jersey"" ; Times: 1
+	Query: "Gerrhosaurus validus" ; Times: 3
+	Query: "specificepithet:rugiceps genus:Leposoma" ; Times: 1
+	Query: "coluber constrictor stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Farancia abacura reinwardtii" ; Times: 1
+	Query: "pseudoeurycea nigromaculata veracruz" ; Times: 2
+	Query: "Tujunga 1916" ; Times: 4
+	Query: "country:"Peru" genus:Drymobius" ; Times: 3
+	Query: "Bronchocela cristatella" ; Times: 1
+	Query: "Varanus olivaceus (dry)" ; Times: 1
+	Query: "MARICHCHUKKADDI" ; Times: 1
+	Query: "Bronchocela marmorata" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"New York" country:"United States"" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Anolis" ; Times: 1
+	Query: "leiopython" ; Times: 2
+	Query: "Terrapene ornata stateprovince:"Arkansas"" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "ranas" ; Times: 2
+	Query: "rana muscosa tujunga" ; Times: 2
+	Query: "Terrapene ornata year >= 1960 year <= 1965" ; Times: 1
+	Query: "stateprovince:"Veracruz" country:"Mexico" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "crotalus horridus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" year >= 2000 year <= 2014" ; Times: 1
+	Query: "Sphenomorphus consobrinus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Micrurus" ; Times: 1
+	Query: "Ameiva atrata" ; Times: 1
+	Query: "USNM 406422" ; Times: 2
+	Query: "Rhacophorus appendiculatus philippines" ; Times: 1
+	Query: "Tejunga 1916" ; Times: 1
+	Query: "Marisora alliacea" ; Times: 2
+	Query: "monopeltis" ; Times: 2
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "stateprovince:"Bocas" country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "Rana stateprovince:"New Mexico" year >= 1970 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" genus:Sibon" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Urotheca" ; Times: 2
+	Query: "phrynosoma shasta county" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 2
+	Query: "specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Sphenomorphus sanctus" ; Times: 1
+	Query: "Kaloula conjuncta philippines year >= 1990 year <= 2014" ; Times: 1
+	Query: "Heterodon stateprovince:"Alabama"" ; Times: 1
+	Query: "Boiga dendrophila philippines" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 3
+	Query: "phrynosoma siskiyou county" ; Times: 2
+	Query: "vanderhaegei" ; Times: 1
+	Query: "Amphiesma vietnam" ; Times: 2
+	Query: "Brachylophus vitiensis" ; Times: 5
+	Query: "country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 3
+	Query: "Lampropeltis mexicana" ; Times: 3
+	Query: "stateprovince:"New Mexico" genus:trachemys year >= 1970" ; Times: 1
+	Query: "Monopeltis guentheri" ; Times: 2
+	Query: "Leiocephalus inaguae" ; Times: 1
+	Query: "Rhacophorus pardalis philippines year >= 1990 year <= 2014" ; Times: 1
+	Query: "country:"Panama" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "Oxyrhabdium modestum philippines" ; Times: 1
+	Query: "genus:Rana institutioncode:USNM year >= 1901 year <= 1901" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:sumatranus" ; Times: 1
+	Query: "ambystoma macrodactylum siskiyou county" ; Times: 2
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "(ocuilapa)" ; Times: 1
+	Query: "mykter" ; Times: 1
+	Query: "country:"Colombia" specificepithet:sanctaemartae genus:Lepidoblepharis" ; Times: 1
+	Query: "stateprovince:"Valle" country:"Colombia" genus:Lepidoblepharis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "Chirindia" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "Lepidophyma smithii" ; Times: 6
+	Query: "clemmys stateprovince:"New York" country:"United States"" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:nebulata genus:Sibon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 437 download events in this period)
+Total number of records downloaded: 233906 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 177374
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 13
+	Country: Israel ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-02 ; Times: 3
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 2
+	Date: 2014-07-11 ; Times: 7
+	Date: 2014-07-12 ; Times: 19
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-15 ; Times: 12
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 3
+	Date: 2014-07-29 ; Times: 5
+	Date: 2014-07-30 ; Times: 2
+	Date: 2014-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudogekko philippines" ; Times: 1
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 2
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "Gekko mindorensis" ; Times: 1
+	Query: "Tejunga 1916" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Gonocephalus sophiae" ; Times: 1
+	Query: "Lamprolepis smaragdina philippines" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Heterodon institutioncode:USNM" ; Times: 2
+	Query: "brachymeles samarensis" ; Times: 1
+	Query: "Bronchocela cristatella philippines" ; Times: 1
+	Query: "incilius alvarius" ; Times: 1
+	Query: "Boiga dendrophila philippines" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Rhacophorus pardalis philippines" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 2
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Gonocephalus philippines" ; Times: 1
+	Query: "Sphenomorphus variegatus" ; Times: 1
+	Query: "Psammodynastes pulverulentus philippines" ; Times: 1
+	Query: "limnonectes leytensis philippines" ; Times: 1
+	Query: "Brachymeles orientalis" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Occidozyga laevis philippines" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "Ahaetulla prasina philippines" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "Philautus leitensis" ; Times: 1
+	Query: "Tujunga 1916" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "Kaloula conjuncta philippines" ; Times: 1
+	Query: ""caiman crocodilus" country:"Peru" year <= 2011" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "Oxyrhabdium modestum philippines" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Bronchocela marmorata" ; Times: 1
+	Query: "Kalophrynus pleurostigma philippines" ; Times: 1
+	Query: "order:Gymnophiona mappable:1" ; Times: 1
+	Query: "rana muscosa tujunga" ; Times: 1
+	Query: "limnonectes macrocephalus" ; Times: 1
+	Query: "Cyrtodactylus agusanensis" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2808
+Total number of records retrieved from searches: 45291
+Number of download events that retrieved data from the resource: 291
+Total number of records downloaded: 262955
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2808
+Total number of records retrieved from searches: 45291
+Number of download events that retrieved data from the resource: 291
+Total number of records downloaded: 262955
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
