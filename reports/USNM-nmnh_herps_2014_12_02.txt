@@ -1,0 +1,313 @@
+Report for Institution Code USNM, Resource nmnh_herps
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 378
+Number of records retrieved in searches: 7141
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 11
+	Country: Colombia ; Times: 9
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 30
+	Country: Jamaica ; Times: 2
+	Country: Malaysia ; Times: 3
+	Country: Mexico ; Times: 48
+	Country: Paraguay ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 251
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 13
+	Date: 2014-11-03 ; Times: 8
+	Date: 2014-11-04 ; Times: 10
+	Date: 2014-11-05 ; Times: 7
+	Date: 2014-11-06 ; Times: 11
+	Date: 2014-11-07 ; Times: 16
+	Date: 2014-11-08 ; Times: 28
+	Date: 2014-11-09 ; Times: 12
+	Date: 2014-11-10 ; Times: 28
+	Date: 2014-11-11 ; Times: 3
+	Date: 2014-11-12 ; Times: 12
+	Date: 2014-11-13 ; Times: 12
+	Date: 2014-11-14 ; Times: 3
+	Date: 2014-11-16 ; Times: 1
+	Date: 2014-11-17 ; Times: 8
+	Date: 2014-11-18 ; Times: 14
+	Date: 2014-11-19 ; Times: 15
+	Date: 2014-11-20 ; Times: 13
+	Date: 2014-11-21 ; Times: 31
+	Date: 2014-11-22 ; Times: 3
+	Date: 2014-11-23 ; Times: 1
+	Date: 2014-11-24 ; Times: 57
+	Date: 2014-11-25 ; Times: 24
+	Date: 2014-11-26 ; Times: 13
+	Date: 2014-11-27 ; Times: 6
+	Date: 2014-11-28 ; Times: 5
+	Date: 2014-11-29 ; Times: 14
+	Date: 2014-11-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 5
+	Query: "Bothriechis" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "country:"Colombia" specificepithet:schlegelii" ; Times: 1
+	Query: "Amphisbaena varia" ; Times: 1
+	Query: "graptemys versa" ; Times: 5
+	Query: "Eretmochelys" ; Times: 1
+	Query: "country:"Thailand" genus:Oligodon" ; Times: 4
+	Query: "anolis sagrei distance(location,geopoint(20.797201434307,-157.763671875))<218898" ; Times: 8
+	Query: "telmatobufo" ; Times: 1
+	Query: "drymarchon" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "Anolis sagrei (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "leptophis" ; Times: 1
+	Query: "edalorhina" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 2
+	Query: "county:"McCormick" stateprovince:"South Carolina" country:"United States" class:Reptilia" ; Times: 1
+	Query: "Necturus maculosus illinois" ; Times: 1
+	Query: "kinosternon acutum institutioncode:USNM" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina" country:"United States" class:Amphibia" ; Times: 4
+	Query: "county:"Edgefield" stateprovince:"South Carolina" country:"United States" class:Amphibia" ; Times: 1
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "chalarodon" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:auratus genus:Anolis" ; Times: 2
+	Query: "Natrix tessellata" ; Times: 1
+	Query: ""Chamaeleo chamaeleon"" ; Times: 1
+	Query: "Sceloporus subniger" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "xenopus laevis type:specimen mappable:1" ; Times: 1
+	Query: "Gastrotheca marsupiata" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 12
+	Query: "Anolis sagrei (United States) AND (NOT Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 3
+	Query: "trachemys venusta" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Amphibia" ; Times: 5
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "hylarana signata" ; Times: 2
+	Query: "Ptychadena uzungwensis" ; Times: 1
+	Query: "coiba" ; Times: 1
+	Query: "malacochersus" ; Times: 1
+	Query: "Mayaguana institutioncode:USNM" ; Times: 1
+	Query: "Epicrates" ; Times: 5
+	Query: "Storeria dekayi Indiana" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "ameiva type:specimen institutioncode:usnm (haiti)" ; Times: 1
+	Query: "Storeria dekayi Indiana lake" ; Times: 1
+	Query: "Amphisbaena carlgansi" ; Times: 1
+	Query: "sibon annulatus" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 2
+	Query: "claudius angustatus" ; Times: 3
+	Query: "teiidae type:specimen institutioncode:usnm" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Pristimantis uranobates" ; Times: 3
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "crotalus molossus distance(location,geopoint(32.24997445586331,-108.10546875))<100000" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(20.797201434307,-157.763671875))<100000" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "Eunectes" ; Times: 3
+	Query: "thamnophis sirtalis Indiana lake" ; Times: 1
+	Query: "Atropoides" ; Times: 2
+	Query: "Anolis sagrei (United States) year >= 1950 year <= 2014 mappable:1" ; Times: 2
+	Query: "country:"Colombia" specificepithet:lemniscatus genus:Cnemidophorus" ; Times: 3
+	Query: "tarsius" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "Phyllodactylus reissii" ; Times: 1
+	Query: "Corallus" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "stateprovince:"texas" genus:desmognathus" ; Times: 1
+	Query: "Anolis sagrei (United States) AND (NOT Cuba NOT Jamaica NOT Hawaii NOT Bahamas NOT Mexico NOT Belize NOT Honduras) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "gibbon" ; Times: 1
+	Query: "Aspidites" ; Times: 1
+	Query: "ameiva type:specimen institutioncode:usnm (puerto rico)" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 9
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: ""Chamaeleo chamaeleon" (Egypt)" ; Times: 1
+	Query: "gymnophthalmus speciosus" ; Times: 2
+	Query: "xenosaurus rackhami" ; Times: 1
+	Query: "Nannophryne" ; Times: 2
+	Query: "candoia bibroni" ; Times: 2
+	Query: "Crossodactylus schmidti" ; Times: 2
+	Query: "county:"Edgefield" stateprovince:"South Carolina" country:"United States" class:Reptilia" ; Times: 1
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico NOT Jamaica) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "leptodeira frenata" ; Times: 2
+	Query: ""dendrophryniscus brevipollicatus"" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:pentaprion genus:Anolis" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "gastrophryne elegans" ; Times: 1
+	Query: "Epictia" ; Times: 1
+	Query: "Neusticurus apodemus" ; Times: 2
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "Boa" ; Times: 1
+	Query: ""bothriechis bicolor"" ; Times: 5
+	Query: "Ameiva dorsalis" ; Times: 2
+	Query: ""crotalus stejnegeri"" ; Times: 1
+	Query: ""crotalus adamanteus" type:specimen mappable:1" ; Times: 2
+	Query: "Nanorana" ; Times: 3
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "ameiva type:specimen institutioncode:usnm" ; Times: 3
+	Query: "alabama "aneides aeneus"" ; Times: 1
+	Query: "craugastor rhodopis" ; Times: 1
+	Query: "crotalus atrox stateprovince:"New Mexico"" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Morelia" ; Times: 3
+	Query: "Mabuya AND Botswana" ; Times: 9
+	Query: "sphaerodactylus glaucus" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(25.806485337547656,-80.13427734375))<100000" ; Times: 1
+	Query: "stateprovince:"New Mexico" (microscaphus)" ; Times: 1
+	Query: "Tropidophis" ; Times: 7
+	Query: "Amietia wittei" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Podarcis siculus" ; Times: 1
+	Query: "catalognumber:218682.6337811 institutioncode:USNM (218682)" ; Times: 1
+	Query: "Masticophis aurigulus" ; Times: 1
+	Query: "mamba" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "rhadinaea decorata" ; Times: 2
+	Query: "phrynosoma asio" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "Regina grahamii" ; Times: 6
+	Query: "stateprovince:"Nuevo Leon" genus:Chiropterotriton" ; Times: 2
+	Query: "stateprovince:"Herrera" country:"Panama" class:Amphibia" ; Times: 2
+	Query: "gastrophryne usta" ; Times: 1
+	Query: "phyllodactylus reissii" ; Times: 5
+	Query: "Amphisbaena manni" ; Times: 1
+	Query: "sceloporus siniferus" ; Times: 1
+	Query: "diadophis regalis" ; Times: 1
+	Query: "specificepithet:deserticola genus:salvadora" ; Times: 1
+	Query: "Amphisbaena hyporissor" ; Times: 2
+	Query: "thamnophis sirtalis (Indiana lake)" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 3
+	Query: "county:"Aiken" stateprovince:"South Carolina" country:"United States" class:Reptilia" ; Times: 2
+	Query: "alligator sinensis" ; Times: 1
+	Query: "phyllodactylus interandinus" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "stateprovince:"San Luis Potosi" genus:Pseudoeurycea" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "ptychadena hastypestatus:1" ; Times: 1
+	Query: "county:"Fresno" genus:Thamnophis" ; Times: 2
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "genus:Porthidium year >= 1800 year <= 2014" ; Times: 2
+	Query: "crotalus atrox atrox stateprovince:"New Mexico" AND (NOT viridis NOT scutulatus NOT lepidus NOT molossus)" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "institutioncode:USNM (218682)" ; Times: 3
+	Query: "USNM 776" ; Times: 1
+	Query: "Lampropeltis getula californiae" ; Times: 4
+	Query: "stateprovince:"New Mexico" specificepithet:multivirgatus year <= 2014" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "Microhyla ornata year <= 2014 mappable:1" ; Times: 2
+	Query: "Vipera aspis" ; Times: 1
+	Query: "ameiva type:specimen institutioncode:usnm (Caribbean)" ; Times: 1
+	Query: "Amphisbaena barbouri" ; Times: 1
+	Query: "Craugastor alfredi" ; Times: 1
+	Query: "county:"Fresno" class:reptilia institutioncode:usnm" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "bitis" ; Times: 1
+	Query: "Amphisbaena innocens" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "crotalus molossus distance(location,geopoint(31.888052569652846,-109.03244018554688))<9977" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 4
+	Query: "Anolis sagrei (United States) AND (NOT Cuba NOT Jamaica NOT Hawaii NOT Bahamas NOT Mexico NOT Belize) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Sceloporus palaciosi" ; Times: 1
+	Query: "Microhyla ornata" ; Times: 1
+	Query: "Boa constrictor constrictor" ; Times: 1
+	Query: "Anolis sagrei (United States) AND (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "amphiuma" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "epinephelus" ; Times: 2
+	Query: "python" ; Times: 6
+	Query: "Ambystoma maculatum cook county" ; Times: 1
+	Query: "Boa constrictor" ; Times: 7
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "TACHYMENIS" ; Times: 1
+	Query: "country:"Liberia" genus:Agama" ; Times: 1
+	Query: "Natrix natrix" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "Sphenomorphus sabanus" ; Times: 1
+	Query: "Amphisbaena cubana" ; Times: 1
+	Query: "anolis sagrei (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" specificepithet:lansbergii genus:Porthidium" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: "stateprovince:"Arizona" specificepithet:multivirgatus year <= 2014" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:annulata genus:Leptodeira" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:ameiva genus:Ameiva" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 2
+	Query: "Necturus maculosus cook county" ; Times: 2
+	Query: "Typhlonectidae" ; Times: 1
+	Query: "Sceloporus jarrovii New Mexico" ; Times: 1
+	Query: "exerodonta sumichrasti" ; Times: 1
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico NOT Jamaica NOT Hawaii) year >= 1950 year <= 2014 mappable:1" ; Times: 2
+	Query: "crotalus molossus distance(location,geopoint(31.686107579079483,-109.06402587890625))<100000" ; Times: 1
+	Query: "stateprovince:"Nebraska" specificepithet:multivirgatus year <= 2014" ; Times: 2
+	Query: "institutioncode:usnm" ; Times: 2
+	Query: "USNM 166505" ; Times: 2
+	Query: "Amphisbaena caeca" ; Times: 1
+	Query: "specificepithet:gundlachi genus:Anolis institutioncode:usnm" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:quadrilineata genus:Ameiva" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:margaritiferus genus:Drymobius" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:tropidogaster genus:Anolis" ; Times: 1
+	Query: "anaxyrus boreas" ; Times: 2
+	Query: "country:"Panama" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "USNM 182684" ; Times: 2
+	Query: "lithobates maculatus" ; Times: 2
+	Query: "Xenosaurus rackhami" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4218
+Total number of records retrieved from searches: 70017
+Number of download events that retrieved data from the resource: 412
+Total number of records downloaded: 370626
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4218
+Total number of records retrieved from searches: 70017
+Number of download events that retrieved data from the resource: 412
+Total number of records downloaded: 370626
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
