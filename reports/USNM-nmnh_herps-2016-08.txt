@@ -1,0 +1,1114 @@
+Report for Institution Code USNM, Resource nmnh_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1447
+Number of records retrieved in searches: 37968
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 20
+	Country: Unknown ; Times: 194
+	Country: Nepal ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Bahamas ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 19
+	Country: Israel ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 815
+	Country: Guyana ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 164
+	Country: United Arab Emirates ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 70
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 109
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 49
+	Date: 2016-08-11 ; Times: 63
+	Date: 2016-08-12 ; Times: 85
+	Date: 2016-08-13 ; Times: 35
+	Date: 2016-08-14 ; Times: 23
+	Date: 2016-08-15 ; Times: 37
+	Date: 2016-08-16 ; Times: 102
+	Date: 2016-08-17 ; Times: 43
+	Date: 2016-08-18 ; Times: 58
+	Date: 2016-08-19 ; Times: 34
+	Date: 2016-08-30 ; Times: 60
+	Date: 2016-08-31 ; Times: 42
+	Date: 2016-08-29 ; Times: 38
+	Date: 2016-08-28 ; Times: 73
+	Date: 2016-08-25 ; Times: 79
+	Date: 2016-08-24 ; Times: 85
+	Date: 2016-08-27 ; Times: 94
+	Date: 2016-08-26 ; Times: 138
+	Date: 2016-08-21 ; Times: 85
+	Date: 2016-08-20 ; Times: 33
+	Date: 2016-08-23 ; Times: 106
+	Date: 2016-08-22 ; Times: 82
+	Date: 2016-08-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis chrysolepis 1" ; Times: 7
+	Query: "Clelia clelia" ; Times: 1
+	Query: "melanophidium" ; Times: 1
+	Query: "Bothriopsis bilineata" ; Times: 4
+	Query: "Ophisaurus sokolovi" ; Times: 1
+	Query: "Rana pretiosa Nevada" ; Times: 1
+	Query: "genus:Alinea locality:island" ; Times: 1
+	Query: "ameiva festiva" ; Times: 1
+	Query: "Anolis cristatellus wileyae 1" ; Times: 1
+	Query: "pituophis melanoleucus mugitus" ; Times: 1
+	Query: "bothriechis belize" ; Times: 7
+	Query: "anolis chloris" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "anolis rupinae" ; Times: 1
+	Query: "bungarus flaviceps" ; Times: 1
+	Query: "wizard" ; Times: 6
+	Query: "Crotalus viridis Nevada" ; Times: 4
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "AMERICANUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "genus:crotalus order:Squamata stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "crotalus san juan new mexico" ; Times: 1
+	Query: "chamaeleonides" ; Times: 1
+	Query: "Clemmys guttata stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "anolis vescus" ; Times: 3
+	Query: "Glaphyromorphus punctulatus" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Uropeltis" ; Times: 2
+	Query: "Ambystoma tigrinum Nevada" ; Times: 1
+	Query: "Barisia ciliaris" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:esculentus" ; Times: 1
+	Query: "Eleutherodactylus montanus USNM" ; Times: 2
+	Query: "Trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "Lampropeltis county:&#34;Tooele&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "anolis lucius" ; Times: 1
+	Query: "anolis kunayalae" ; Times: 1
+	Query: "ANAXYRUS AMERICANUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Apalone spinifera distance(location,geopoint(34.92084502261776,-81.27204895019531))&lt;100000" ; Times: 1
+	Query: "Kentropyx" ; Times: 2
+	Query: "Varanus bengalensis type:specimen" ; Times: 1
+	Query: "anaxyrus woodhousii new mexico" ; Times: 3
+	Query: "type:specimen (Craugastor saltator)" ; Times: 1
+	Query: "Litoria pygmaea" ; Times: 1
+	Query: "ambystoma stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Terrapene stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;dekalb&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 2
+	Query: "Phyllomedusa perinesos" ; Times: 1
+	Query: "USNM AND 313348.6167477" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "anolis yoroensis" ; Times: 1
+	Query: "gastrophryne mazatlanensis" ; Times: 2
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "order:Caudata stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: "Lampropeltis polyzona" ; Times: 2
+	Query: "anolis ruizii" ; Times: 2
+	Query: "specificepithet:draytonii county:&#34;San Diego&#34;" ; Times: 1
+	Query: "USNM 507551" ; Times: 2
+	Query: "specificepithet:couchii genus:Scaphiopus stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "anolis fitchi" ; Times: 1
+	Query: "anolis whitemani" ; Times: 1
+	Query: "USNM 125697" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "96656" ; Times: 1
+	Query: "lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "desmognathus auriculatus north carolina" ; Times: 2
+	Query: "anolis kemptoni" ; Times: 1
+	Query: "anolis gracilipes" ; Times: 1
+	Query: "type:specimen (Craugastor omiltemanus) institutioncode:USNM" ; Times: 1
+	Query: "phrynosoma county:&#34;fresno&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "reptilia painted desert arizona" ; Times: 2
+	Query: "institutioncode:usnm 313564" ; Times: 1
+	Query: "albatross type:specimen year &gt;= 1900 year &lt;= 1950 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:philippii genus:tropidodipsas country:&#34;mexico&#34;" ; Times: 1
+	Query: "Plestiodon Obsoletum" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:maculateralis" ; Times: 1
+	Query: "anolis guazuma" ; Times: 2
+	Query: "523684" ; Times: 1
+	Query: "Anolis pentaprion pentaprion 1" ; Times: 2
+	Query: "anolis uniformis" ; Times: 1
+	Query: "specificepithet:atrocostata genus:emoia locality:island" ; Times: 2
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "anaxyrus woodhousii" ; Times: 2
+	Query: "varanus bengalensis" ; Times: 2
+	Query: "anolis scypheus" ; Times: 1
+	Query: "Graptemys sabinensis Louisiana" ; Times: 1
+	Query: "Bothriechis bicolor" ; Times: 4
+	Query: "Gastrophryne mazatlanensis" ; Times: 1
+	Query: "Eugongylus rufescens" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:proximus genus:Thamnophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "anolis wermuthi" ; Times: 1
+	Query: "Hypsiboas marginatus" ; Times: 2
+	Query: "Trimeresurus erythrurus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 4
+	Query: "anolis fraseri" ; Times: 1
+	Query: "Anolis cupreus 1" ; Times: 3
+	Query: "calligaster virginia Loudoun" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34; (Sistrurus) year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "anolis purpurgularis" ; Times: 1
+	Query: "Bothrocophias campbelli" ; Times: 3
+	Query: "specificepithet:vernalis genus:Liochlorophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:aneides locality:waddell institutioncode:USNM" ; Times: 1
+	Query: "USNM 313452" ; Times: 2
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "catenatus arizona" ; Times: 1
+	Query: "anolis properus" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "Hemiphractus fasciatus" ; Times: 1
+	Query: "pristimantis euphronides" ; Times: 3
+	Query: "266624" ; Times: 1
+	Query: "Micrurus helleri" ; Times: 18
+	Query: "anolis quadriocellifer" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "specificepithet:ammodytoides family:viperidae" ; Times: 1
+	Query: "Thalassophis" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis poecilopus" ; Times: 1
+	Query: "boa constrictor" ; Times: 2
+	Query: "114007" ; Times: 1
+	Query: "USNM 234042" ; Times: 2
+	Query: "Plethodon hoffmani county:&#34;Garrett&#34;" ; Times: 1
+	Query: "Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "class:reptilia locality:new hampshire" ; Times: 1
+	Query: "micrurus annellatus" ; Times: 1
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "Coleonyx switaki" ; Times: 8
+	Query: "salvadora intermedia" ; Times: 7
+	Query: "Craugastor mexicanus USNM" ; Times: 2
+	Query: "genus:rhinobothryum" ; Times: 2
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34; (Sistrurus) year &gt;= 1800 year &lt;= 2016" ; Times: 1
+	Query: "Anolis oxylophus 1" ; Times: 2
+	Query: "Dicrodon heterolepis" ; Times: 1
+	Query: "reptilia san juan new mexico" ; Times: 2
+	Query: "lynxe" ; Times: 1
+	Query: "petropedetes type:specimen order:Anura" ; Times: 3
+	Query: "anolis garmani" ; Times: 1
+	Query: "PIPIENS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Bothrops sanctaecrucis" ; Times: 1
+	Query: "anolis marcanoi" ; Times: 1
+	Query: "Kolpophis annandalei" ; Times: 4
+	Query: "anolis caudalis" ; Times: 1
+	Query: "Plestiodon tetragrammus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-11.910353555774101,48.93310546875))&lt;100000" ; Times: 1
+	Query: "anolis rimarum" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 3
+	Query: "Sternotherus minor Mississippi" ; Times: 2
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 43
+	Query: "STEGONOTUS MUELLERI" ; Times: 1
+	Query: "anaxyrus terrestris (county) year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "169695" ; Times: 1
+	Query: "anolis granuliceps" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "anolis websteri" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:gryllus" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 3
+	Query: "Anolis planiceps 1" ; Times: 1
+	Query: "USNM 220270" ; Times: 2
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "Ambystoma barbouri mappable:1" ; Times: 1
+	Query: "anaxyrus terrestris" ; Times: 3
+	Query: "anolis bremeri" ; Times: 1
+	Query: "Proceratophrys cristiceps" ; Times: 2
+	Query: "lampropeltis triangulum mecklenburg virginia" ; Times: 2
+	Query: "anolis amplisquamosus" ; Times: 2
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;Mendocino&#34;" ; Times: 1
+	Query: "Horridus stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Plectrohyla pachyderma" ; Times: 1
+	Query: "anolis princeps" ; Times: 1
+	Query: "Virginia valeriae stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "Bergen swamp" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 11
+	Query: "tropidophorus grayi" ; Times: 1
+	Query: "anolis onca" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 2
+	Query: "Indirana type:specimen order:Anura" ; Times: 1
+	Query: "anolis serranoi" ; Times: 1
+	Query: "VERNALIS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "pituophis stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "Anolis polylepis 1" ; Times: 3
+	Query: "genus:Corucia" ; Times: 1
+	Query: "Voeltzkowia mira" ; Times: 2
+	Query: "anolis notopholis" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "genus:aneides locality:skyline year &gt;= 1968 institutioncode:USNM" ; Times: 1
+	Query: "anolis townsendi" ; Times: 1
+	Query: "257864" ; Times: 1
+	Query: "270479" ; Times: 1
+	Query: "Causus resimus" ; Times: 1
+	Query: "Triangulum stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "genus:aneides locality:stanford institutioncode:USNM" ; Times: 1
+	Query: "anolis lyra" ; Times: 1
+	Query: "Anolis chocorum 1" ; Times: 5
+	Query: "Plestiodon multilineatus" ; Times: 1
+	Query: "133833" ; Times: 1
+	Query: "Anolis microtus 1" ; Times: 2
+	Query: "Sphenomorphus boulengeri" ; Times: 1
+	Query: "anolis reconditus" ; Times: 1
+	Query: "anolis liogaster" ; Times: 1
+	Query: "anolis maculiventris" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Montgomery&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "varanus nebulosus" ; Times: 3
+	Query: "Varanus bengalensis" ; Times: 1
+	Query: "Anaxyrus boreas county:&#34;Inyo&#34;" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(35.61934922285749,-76.24649047851562))&lt;28069" ; Times: 1
+	Query: "Lepidoblepharis Ecuador" ; Times: 2
+	Query: "Scincella silvicola" ; Times: 1
+	Query: "Ascaphus montanus" ; Times: 9
+	Query: "genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "Anolis pijolense 1" ; Times: 1
+	Query: "anniella pulchra distance(location,geopoint(36.946965158341854,-122.431640625))&lt;100000" ; Times: 2
+	Query: "ficimia" ; Times: 1
+	Query: "Lygosoma sundevalli" ; Times: 1
+	Query: "bothriechis guatemala" ; Times: 4
+	Query: "calligaster virginia fauquier" ; Times: 1
+	Query: "Polychrus femoralis mappable:1" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:eleutherodactylus institutioncode:USNM" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "New York Regina" ; Times: 1
+	Query: "crotalus moab" ; Times: 1
+	Query: "genus:amphiglossus locality:island" ; Times: 1
+	Query: "phrynosoma county:&#34;fresno&#34;" ; Times: 14
+	Query: "genus:ablepharus locality:island" ; Times: 2
+	Query: "Anolis matudai 1" ; Times: 1
+	Query: "217907" ; Times: 3
+	Query: "Charadrahyla taeniopus" ; Times: 1
+	Query: "anaxyrus terrestris year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "Sphenomorphus formosensis" ; Times: 1
+	Query: "specificepithet:poecilopleurus genus:cryptoblepharus locality:island" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Amazophrynella minuta" ; Times: 2
+	Query: "USNM 115606" ; Times: 1
+	Query: "Dicrodon" ; Times: 6
+	Query: "anolis hendersoni" ; Times: 1
+	Query: "lycodon travancoricus" ; Times: 2
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "clelia mexico" ; Times: 1
+	Query: "Scincella gemmingeri" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "Atelopus balios" ; Times: 1
+	Query: "Aspidoscelis tesselata" ; Times: 1
+	Query: "elgaria cochise" ; Times: 4
+	Query: "Anolis meridionalis 1" ; Times: 1
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "CINEREUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "class:amphibia locality:new hampshire" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Anolis fuscoauratus kugleri 1" ; Times: 2
+	Query: "Cryptobranchus county:&#34;Garrett&#34;" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 45
+	Query: "164650" ; Times: 1
+	Query: "Anolis dunni 1" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Leiocephalus punctatus institutioncode:USNM" ; Times: 1
+	Query: "anolis cooki" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "anolis paternus" ; Times: 1
+	Query: "eleutherodactylus richmondi" ; Times: 2
+	Query: "genus:diadophis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 7
+	Query: "San Nicolas Island AND Xantusia" ; Times: 5
+	Query: "ranodon sibiricus" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Anolis nebulosus 1" ; Times: 5
+	Query: "tHAMNOPHIS SIRTALIS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "anolis monticola" ; Times: 1
+	Query: "Leiocephalus stateprovince:&#34;Florida&#34; institutioncode:USNM" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "rana temporaria" ; Times: 1
+	Query: "Eurycea bislineata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "trachemys scripta scripta south carolina" ; Times: 1
+	Query: "Bothrocophias microphthalmus" ; Times: 4
+	Query: "Varanus nebulosus type:specimen" ; Times: 1
+	Query: "Craugastor pygmaeus USNM" ; Times: 1
+	Query: "Sternotherus minor stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "type:specimen (Craugastor hobartsmithi) institutioncode:USNM" ; Times: 1
+	Query: "Craugastor pygmaeus" ; Times: 1
+	Query: "specificepithet:planiceps genus:Tantilla" ; Times: 1
+	Query: "anolis longitibialis" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 3
+	Query: "pyromelana coconino" ; Times: 1
+	Query: "gallon jug" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-18.312810846425442,47.43896484375))&lt;100000" ; Times: 1
+	Query: "Anolis poecilopus 1" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "pituophis mugitus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 2
+	Query: "genus:Rhacophorus specificepithet:pardalis" ; Times: 1
+	Query: "Craugastor saltator USNM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "USNM 317196" ; Times: 3
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "micrurus proximans" ; Times: 1
+	Query: "anolis vittigerus" ; Times: 1
+	Query: "Anolis intermedius 1" ; Times: 1
+	Query: "anolis koopmani" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "Desmognathus santeetlah" ; Times: 2
+	Query: "anolis rubribarbaris" ; Times: 1
+	Query: "USNM 17851" ; Times: 2
+	Query: "Mabuya agilis" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "Bothrocophias hyoprora" ; Times: 4
+	Query: "USNM 499004" ; Times: 2
+	Query: "micrurus diastema" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "Incilius mazatlanensis" ; Times: 1
+	Query: "44536" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "specificepithet:taeniatus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 3
+	Query: "92074" ; Times: 1
+	Query: "Lampropeltis county:&#34;Salt Lake&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:frontalis genus:Micrurus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Mertensi" ; Times: 2
+	Query: "USNM 523683" ; Times: 2
+	Query: "anolis fowleri" ; Times: 1
+	Query: "anolis pumilus" ; Times: 1
+	Query: "anolis centralis" ; Times: 1
+	Query: "anolis placidus" ; Times: 1
+	Query: "lampropeltis triangulum nebraska" ; Times: 1
+	Query: "Cedros" ; Times: 1
+	Query: "genus:Anaxyrus order:Anura stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasia olivacea" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 52
+	Query: "anolis bimaculatus" ; Times: 1
+	Query: "Gonatodes antillensis (Gonatodes antillensis)" ; Times: 1
+	Query: "anolis microtus" ; Times: 2
+	Query: "Anolis quercorum 1" ; Times: 1
+	Query: "tribolonotus brongersmai" ; Times: 9
+	Query: "crocodylus moreletii" ; Times: 5
+	Query: "anolis pijolense" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 2
+	Query: "tHAMNOPHIS SAURITUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 2
+	Query: "pseudoeurycea teotepec" ; Times: 1
+	Query: "Craugastor montanus" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "USNM 507550" ; Times: 2
+	Query: "Emoia trossula" ; Times: 1
+	Query: "bothriechis mexico" ; Times: 2
+	Query: "nERODIA stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:mexicana genus:Aspidoscelis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "San Clemente Island AND Uta AND 1893" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 12
+	Query: "Anolis sagrei 1" ; Times: 3
+	Query: "USNM 512285" ; Times: 2
+	Query: "anolis loveridgei" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "Hyla wrightorum" ; Times: 2
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "type:specimen (Craugastor PYGMAeus)" ; Times: 1
+	Query: "philodryas nattereri" ; Times: 1
+	Query: "anolis kreutzi" ; Times: 1
+	Query: "anolis transversalis" ; Times: 1
+	Query: "Buergeria type:specimen" ; Times: 2
+	Query: "anolis christophei" ; Times: 1
+	Query: "Bromeliohyla dendroscarta" ; Times: 2
+	Query: "USNM 220269" ; Times: 1
+	Query: "anolis johnmeyeri" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "genus:Virginia stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "tantilla planiceps" ; Times: 22
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Plethodon ouachitae" ; Times: 19
+	Query: "anolis cyanopleurus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; AND (NOT KU)" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 10
+	Query: "anguis fragilis" ; Times: 4
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "Anolis uniformis" ; Times: 1
+	Query: "anolis mestrei" ; Times: 1
+	Query: "San Nicolas Island AND 1940 NOT MExico NOT ICH NOT Fish" ; Times: 2
+	Query: "noblella peruviana" ; Times: 3
+	Query: "anolis vermiculatus" ; Times: 1
+	Query: "genus:Bassiana locality:island" ; Times: 1
+	Query: "specificepithet:montanus genus:Ascaphus mappable:1" ; Times: 6
+	Query: "Oxyrhabdium country:&#34;Philippines&#34;" ; Times: 5
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anolis mariarum 1" ; Times: 1
+	Query: "anolis planiceps" ; Times: 1
+	Query: "Anolis centralis 1" ; Times: 2
+	Query: "anolis carpenteri" ; Times: 6
+	Query: "plethodon welleri" ; Times: 4
+	Query: "Jenaro Herrera" ; Times: 1
+	Query: "laudakia himalayana" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 3
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "institutioncode:usnm" ; Times: 2
+	Query: "Trachycephalus venulosus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis olssoni" ; Times: 1
+	Query: "254751" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "cryptobranchus New York" ; Times: 1
+	Query: "crotalus ornatus" ; Times: 2
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "order:Anura stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "calligaster virginia" ; Times: 2
+	Query: "anolis distichus favillarum" ; Times: 1
+	Query: "Apalone spinifera distance(location,geopoint(34.6682290765873,-82.23884582519531))&lt;100000" ; Times: 1
+	Query: "pulchra type:specimen family:Microhylidae" ; Times: 1
+	Query: "order:Squamata county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "anolis brevirostris" ; Times: 1
+	Query: "brongersmianus" ; Times: 1
+	Query: "Anolis pachypus 1" ; Times: 1
+	Query: "brune" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 5
+	Query: "San Bernardino county charina" ; Times: 1
+	Query: "Anolis omiltemanus 1" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "Anolis auratus 1" ; Times: 6
+	Query: "Phyllomedusa azurea" ; Times: 1
+	Query: "anolis jubar" ; Times: 1
+	Query: "xylophis" ; Times: 2
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 11
+	Query: "ambystoma locality:atexcac stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 2
+	Query: "anolis lynchi" ; Times: 1
+	Query: "Trimeresurus labialis" ; Times: 1
+	Query: "San Clemente Island AND Uta AND 1889" ; Times: 2
+	Query: "USNM 305967" ; Times: 2
+	Query: "Phyllomedusa ayeaye" ; Times: 1
+	Query: "egg trinidad" ; Times: 1
+	Query: "genus:gopherus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "locality:waddell institutioncode:USNM" ; Times: 1
+	Query: "anolis chocorum" ; Times: 1
+	Query: "eleutherodactylus gryllus" ; Times: 1
+	Query: "anolis clivicola" ; Times: 1
+	Query: "Dicrodon holmbergi mappable:1" ; Times: 1
+	Query: "Anolis bitectus mappable:1" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "anolis fairchildi" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "21820" ; Times: 1
+	Query: "Heterodon Willcox" ; Times: 3
+	Query: "Anolis quercorum  1" ; Times: 3
+	Query: "crotalus adamanteus county:&#34;collier&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "aneides county:&#34;Garrett&#34;" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Anolis nebuloides 1" ; Times: 3
+	Query: "type:specimen (Craugastor saltator) institutioncode:USNM" ; Times: 1
+	Query: "crotalus adamanteus county:&#34;okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Hydromantes brunus" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 1
+	Query: "genus:aneides locality:saratoga institutioncode:USNM" ; Times: 1
+	Query: "Abronia graminea" ; Times: 3
+	Query: "Tribolonotus brongersmai" ; Times: 1
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "genus:anilius" ; Times: 1
+	Query: "Lankanectes corrugatus type:specimen order:Anura" ; Times: 1
+	Query: "Anolis laeviventris" ; Times: 1
+	Query: "Anolis osa 1" ; Times: 1
+	Query: "Megophrys parva" ; Times: 2
+	Query: "Racoon" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "anolis parvauritus" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "kirtlandii usnm" ; Times: 2
+	Query: "Metaphrynella type:specimen order:Anura" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 2
+	Query: "genus:Isthmohyla specificepithet:insolita" ; Times: 1
+	Query: "specificepithet:narduccii genus:Leptomicrurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 14
+	Query: "Porthidium belize" ; Times: 5
+	Query: "Thamnophis scalaris" ; Times: 3
+	Query: "Clonophis" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 2
+	Query: "Micrurus langsdorffi" ; Times: 22
+	Query: "anolis darlingtoni" ; Times: 1
+	Query: "institutioncode:usnm 565400" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 2
+	Query: "Anolis lynchi 1" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides locality:los gatos year &gt;= 1931 institutioncode:USNM" ; Times: 1
+	Query: "Craugastor hobartsmithi" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "triangulum graham" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "genus:Gonocephalus country:&#34;Philippines&#34;" ; Times: 2
+	Query: "genus:Micruroides" ; Times: 1
+	Query: "286108" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 3
+	Query: "institutioncode:usnm 84512" ; Times: 2
+	Query: "Craugastor montanus USNM" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "anolis ophiolepis" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:pentadactylus" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "Crotalus horridus county:&#34;Garrett&#34;" ; Times: 1
+	Query: "type:specimen (Craugastor montanus) institutioncode:USNM" ; Times: 1
+	Query: "anolis taylori" ; Times: 1
+	Query: "anolis peraccae" ; Times: 1
+	Query: "Crotalus horridus stateprovince:new york" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "anolis frenatus" ; Times: 1
+	Query: "anolis dolichocephalus" ; Times: 1
+	Query: "Pseudotriton ruber distance(location,geopoint(35.21196570103912,-82.27455139160156))&lt;51040" ; Times: 1
+	Query: "emoia cyanura" ; Times: 1
+	Query: "egg mississippi" ; Times: 1
+	Query: "San Nicolas Island AND 1911 AND USNM" ; Times: 1
+	Query: "Graham county Crotalus pricei" ; Times: 1
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "reptilia painted desert" ; Times: 1
+	Query: "Acontias" ; Times: 3
+	Query: "anolis boettgeri" ; Times: 1
+	Query: "Anolis serranoi" ; Times: 1
+	Query: "Hemidactylium scutatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Craugastor Pygmaeus" ; Times: 1
+	Query: "Lithobates forreri" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "locality:new hampshire" ; Times: 1
+	Query: "hyalinobatrachium" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "institutioncode:usnm 337332" ; Times: 3
+	Query: "Craugastor occidentalis" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:aneides locality:santas institutioncode:USNM" ; Times: 1
+	Query: "anolis sminthus" ; Times: 1
+	Query: "pigeon lake" ; Times: 1
+	Query: "Craugastor saltator" ; Times: 1
+	Query: "Lepidoblepharis peraccae" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides locality:stanford institutioncode:USNM" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "Crotalus oaxacus" ; Times: 5
+	Query: "chionactis occipitalis arizona" ; Times: 2
+	Query: "Graham county modestum" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "anolis homolechis" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 5
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Oxyrhopus" ; Times: 2
+	Query: "amphibia punctatus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "anolis latifrons" ; Times: 1
+	Query: "Emoia physicae" ; Times: 1
+	Query: "COLUBER CONSTRICTOR stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "rhinobothryum" ; Times: 1
+	Query: "STORERIA DEKAYI stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Micrurus ancoralis" ; Times: 6
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "Bothriopsis taeniata" ; Times: 2
+	Query: "Gonatodes type:specimen country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Leiocephalus eremitus" ; Times: 1
+	Query: "anolis festae" ; Times: 1
+	Query: "Eleutherodactylus verrucipes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis noblei" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "Storeria occipitomaculata county:&#34;Garrett&#34;" ; Times: 1
+	Query: "Plestiodon septentrionalis kansas" ; Times: 1
+	Query: "petropedetes natator type:specimen" ; Times: 1
+	Query: "Virginia valeriae distance(location,geopoint(34.72355492704219,-82.738037109375))&lt;51657.81654839955" ; Times: 2
+	Query: "skulls" ; Times: 1
+	Query: "285672" ; Times: 1
+	Query: "Troudiye" ; Times: 1
+	Query: "anolis meridionalis" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "specificepithet:pyrrhocryptus genus:Micrurus" ; Times: 1
+	Query: "county:kane class:reptilia" ; Times: 2
+	Query: "genus:Lichanura stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phrynosoma institutioncode:USNM" ; Times: 1
+	Query: "leptodeira annulata" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "phrynosoma blainvillii stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "nuntius arizona" ; Times: 2
+	Query: "typhlops brongersmianus" ; Times: 16
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Cochise county Heterodon" ; Times: 1
+	Query: "Scincella himalayana" ; Times: 4
+	Query: "Craugastor hobartsmithi USNM" ; Times: 1
+	Query: "specificepithet:publia genus:ficimia" ; Times: 1
+	Query: "genus:coluber order:Squamata stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:poecilopleurus genus:Cryptoblepharus locality:island" ; Times: 4
+	Query: "Lampropeltis pyromelana coconino" ; Times: 2
+	Query: "apalone mutica texas" ; Times: 3
+	Query: "&#34;ambystoma barbouri&#34;" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 1
+	Query: "Thamnophis errans" ; Times: 1
+	Query: "anolis etheridgei" ; Times: 1
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:armstrongi" ; Times: 3
+	Query: "trivittata" ; Times: 1
+	Query: "USNM 313453" ; Times: 3
+	Query: "Crotalus totonacus" ; Times: 2
+	Query: "specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "barisia ciliaris" ; Times: 3
+	Query: "Kaieteur" ; Times: 1
+	Query: "Anolis purpurescens 1" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "hyla arenicolor new mexico" ; Times: 1
+	Query: "geochelone" ; Times: 2
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "anolis desechensis" ; Times: 1
+	Query: "anolis chrysolepis chrysolepis" ; Times: 1
+	Query: "anolis macrophallus" ; Times: 1
+	Query: "anaxyrus terrestris country:&#34;United States&#34; (county) year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 5
+	Query: "Lithobates catesbeianus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "calligaster virginia fairfax" ; Times: 1
+	Query: "anaxyrus terrestris stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; (county) year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "anolis insolitus" ; Times: 1
+	Query: "anolis sheplani" ; Times: 1
+	Query: "Eleutherodactylus pallidus" ; Times: 1
+	Query: "regina stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Herps" ; Times: 1
+	Query: "genus:Hyalinobatrachium specificepithet:valerioi" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "type:specimen (Craugastor mexicanus) institutioncode:USNM" ; Times: 1
+	Query: "anolis cupreus" ; Times: 1
+	Query: "cyrtodactylus institutioncode:USNM" ; Times: 1
+	Query: "ascaphus montanus" ; Times: 4
+	Query: "anolis poncensis" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "Crotalus Lepidus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 4
+	Query: "stilosoma extenuatum" ; Times: 1
+	Query: "specificepithet:glutinosus county:&#34;montour&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "genus:Noblella specificepithet:myrmecoides" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "anolis ocelloscapularis" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Craugastor omiltemanus" ; Times: 2
+	Query: "Panaspis breviceps" ; Times: 1
+	Query: "specificepithet:ornatissimus genus:Micrurus" ; Times: 1
+	Query: "lithobates montezumae" ; Times: 1
+	Query: "Egernia frerei" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Gehyra Manus" ; Times: 1
+	Query: "Pseudoficimia" ; Times: 1
+	Query: "anolis eugenegrahami" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 3
+	Query: "institutioncode:usnm 309401" ; Times: 3
+	Query: "genus:tropidodipsas stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "Storeria occipitomaculata stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "anolis distichus ravitergum" ; Times: 1
+	Query: "anolis lividus" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:kirtlandii stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "trimeresurus macrolepis" ; Times: 2
+	Query: "anolis nigrolineatus" ; Times: 2
+	Query: "stereochilus" ; Times: 2
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 3
+	Query: "anolis distichus dominicensis" ; Times: 1
+	Query: "clonophis" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+	Query: "taricha sierrae" ; Times: 1
+	Query: "specificepithet:wilcoxi genus:Tantilla" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 4
+	Query: "Gyrinophilus porphyriticus distance(location,geopoint(34.72355492704219,-82.738037109375))&lt;51657.81654839955" ; Times: 1
+	Query: "Anaxyrus canorus" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "phrynosoma stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: "Sistrurus" ; Times: 2
+	Query: "anolis strahmi" ; Times: 3
+	Query: "Craugastor omiltemanus USNM" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 2
+	Query: "celestus rozellae" ; Times: 6
+	Query: "anolis lionotus" ; Times: 1
+	Query: "Plestiodon marginatus" ; Times: 1
+	Query: "anolis ignigularis" ; Times: 1
+	Query: "Phenacosaurus nicefori 1" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "anolis semilineatus" ; Times: 2
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pseudoeurycea unguidentis" ; Times: 2
+	Query: "200271" ; Times: 1
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 1
+	Query: "Tropidodipsas philippii" ; Times: 4
+	Query: "trimeresurus malabaricus" ; Times: 8
+	Query: "genus:Notophthalmus county:&#34;Scotland&#34;" ; Times: 4
+	Query: "specificepithet:pectinata genus:Ctenosaura stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "13787" ; Times: 1
+	Query: "Anolis aequatorialis 1" ; Times: 17
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "anolis luteogularis" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 2
+	Query: "USNM 534092" ; Times: 2
+	Query: "Chrysemys picta stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Eleutherodactylus montanus" ; Times: 1
+	Query: "lampropeltis triangulum stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "East Plana Cay" ; Times: 1
+	Query: "Leiocephalus institutioncode:USNM" ; Times: 1
+	Query: "desmognathus stateprovince:&#34;texas&#34; (desmognathus )" ; Times: 1
+	Query: "stereochilus north carolina" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Lampropeltis getula New Mexico" ; Times: 1
+	Query: "specificepithet:pulcherrima genus:Rhinoclemmys stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "USNM 49388" ; Times: 3
+	Query: "porthidium yucatanicum belize" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 273 (out of 924 download events in this period)
+Total number of records downloaded: 90540
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 4
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 214
+	Country: Colombia ; Times: 5
+	Country: Puerto Rico ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 10
+	Date: 2016-08-11 ; Times: 10
+	Date: 2016-08-12 ; Times: 11
+	Date: 2016-08-13 ; Times: 12
+	Date: 2016-08-14 ; Times: 6
+	Date: 2016-08-15 ; Times: 11
+	Date: 2016-08-16 ; Times: 14
+	Date: 2016-08-17 ; Times: 15
+	Date: 2016-08-18 ; Times: 12
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-30 ; Times: 19
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-29 ; Times: 20
+	Date: 2016-08-28 ; Times: 13
+	Date: 2016-08-25 ; Times: 9
+	Date: 2016-08-24 ; Times: 19
+	Date: 2016-08-27 ; Times: 11
+	Date: 2016-08-26 ; Times: 15
+	Date: 2016-08-21 ; Times: 11
+	Date: 2016-08-20 ; Times: 4
+	Date: 2016-08-23 ; Times: 17
+	Date: 2016-08-22 ; Times: 22
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis granuliceps" ; Times: 1
+	Query: "anolis sminthus" ; Times: 1
+	Query: "anolis humilis" ; Times: 1
+	Query: "anolis christophei" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "anolis smaragdinus" ; Times: 1
+	Query: "anolis opalinus" ; Times: 1
+	Query: "Dicrodon holmbergi mappable:1" ; Times: 1
+	Query: "anolis johnmeyeri" ; Times: 1
+	Query: "anolis dunni" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "anolis bremeri" ; Times: 1
+	Query: "anolis valencienni" ; Times: 1
+	Query: "anolis lyra" ; Times: 1
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "anolis latifrons" ; Times: 1
+	Query: "anolis cyanopleurus" ; Times: 1
+	Query: "anolis reconditus" ; Times: 1
+	Query: "plethodon shenandoah" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis liogaster" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "anolis maculiventris" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "distance(location,geopoint(22.76372984514836,-102.58277893066406))&lt;15321" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "anolis microtus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Varanus bengalensis" ; Times: 4
+	Query: "anolis vermiculatus" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "anolis kunayalae" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "Bothriopsis bilineata" ; Times: 2
+	Query: "ambystoma" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "anolis carpenteri" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "anolis whitemani" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "anolis transversalis" ; Times: 1
+	Query: "anolis meridionalis" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "Phyllomedusa perinesos" ; Times: 1
+	Query: "Polychrus femoralis mappable:1" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis stratulus" ; Times: 1
+	Query: "anolis olssoni" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "crotalus ornatus" ; Times: 1
+	Query: "Anaxyrus americanus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis centralis" ; Times: 1
+	Query: "anolis distichus favillarum" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "anolis ruizii" ; Times: 1
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis clivicola" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "anolis fitchi" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "anolis brevirostris" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "anolis kemptoni" ; Times: 2
+	Query: "anolis crassulus" ; Times: 1
+	Query: "anolis gracilipes" ; Times: 1
+	Query: "phrynosoma county:&#34;fresno&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "anolis townsendi" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "anolis cupreus" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "&#34;ambystoma barbouri&#34;" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "Phyllomedusa azurea" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "anolis jubar" ; Times: 1
+	Query: "anolis etheridgei" ; Times: 1
+	Query: "Anolis bitectus mappable:1" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "anolis guazuma" ; Times: 1
+	Query: "anolis quadriocellifer" ; Times: 1
+	Query: "anolis lynchi" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "anolis uniformis" ; Times: 1
+	Query: "anolis chloris" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "anolis ophiolepis" ; Times: 1
+	Query: "Phyllomedusa ayeaye" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "anolis pulchellus" ; Times: 1
+	Query: "anolis garmani" ; Times: 1
+	Query: "anolis wermuthi" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "anolis chocorum" ; Times: 1
+	Query: "anolis chrysolepis chrysolepis" ; Times: 1
+	Query: "anolis cooki" ; Times: 1
+	Query: "anolis polylepis" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "anolis fraseri" ; Times: 1
+	Query: "anolis macrophallus" ; Times: 1
+	Query: "anolis paternus" ; Times: 1
+	Query: "anolis luciae" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "Thamnophis elegans Nevada" ; Times: 1
+	Query: "Tribolonotus brongersmai" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "anolis insolitus" ; Times: 1
+	Query: "anolis sheplani" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis notopholis" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "anolis monticola" ; Times: 1
+	Query: "Leiocephalus stateprovince:&#34;Florida&#34; institutioncode:USNM" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "anolis properus" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis dollfusianus" ; Times: 1
+	Query: "anolis lionotus" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis vinosus" ; Times: 1
+	Query: "anolis ocelloscapularis" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "Anaxyrus canorus" ; Times: 1
+	Query: "anolis parvauritus" ; Times: 1
+	Query: "calamaria gervaisi mappable:1" ; Times: 1
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 2
+	Query: "noblella peruviana" ; Times: 1
+	Query: "anolis rimarum" ; Times: 1
+	Query: "anolis eugenegrahami" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis poecilopus" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: "anolis kreutzi" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "anolis lividus" ; Times: 1
+	Query: "Coleonyx switaki" ; Times: 1
+	Query: "anolis darlingtoni" ; Times: 1
+	Query: "anolis planiceps" ; Times: 1
+	Query: "anolis vittigerus" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "anolis koopmani" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "anolis onca" ; Times: 1
+	Query: "anolis boettgeri" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Hydromantes brunus" ; Times: 1
+	Query: "anolis rubribarbaris" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis vescus" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "Gonatodes type:specimen country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "anolis longitibialis" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "chamaeleonides" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 1
+	Query: "Granite Pass" ; Times: 1
+	Query: "anolis strahmi" ; Times: 2
+	Query: "anolis scypheus" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "anolis taylori" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis ignigularis" ; Times: 1
+	Query: "anolis marcanoi" ; Times: 1
+	Query: "anolis frenatus" ; Times: 1
+	Query: "anolis dolichocephalus" ; Times: 1
+	Query: "anolis griseus" ; Times: 1
+	Query: "anolis semilineatus" ; Times: 2
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "anolis websteri" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "anolis mestrei" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "anolis placidus" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "anolis bimaculatus" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "anolis luteogularis" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "anolis festae" ; Times: 1
+	Query: "anolis krugi" ; Times: 1
+	Query: "anolis pijolense" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "anolis amplisquamosus" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "family:Uropeltidae" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "anolis princeps" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "anolis sabanus" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "lithobates montezumae" ; Times: 1
+	Query: "anolis caudalis" ; Times: 1
+	Query: "specificepithet:draytonii county:&#34;San Diego&#34;" ; Times: 1
+	Query: "anolis fowleri" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis oculatus" ; Times: 1
+	Query: "anolis purpurgularis" ; Times: 1
+	Query: "anolis grahami" ; Times: 1
+	Query: "anolis marmoratus marmoratus" ; Times: 1
+	Query: "anolis serranoi" ; Times: 1
+	Query: "anolis pumilus" ; Times: 1
+	Query: "Leiocephalus punctatus institutioncode:USNM" ; Times: 1
+	Query: "anolis loveridgei" ; Times: 1
+	Query: "anolis noblei" ; Times: 1
+	Query: "anaxyrus terrestris stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; (county) year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "anolis lucius" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
