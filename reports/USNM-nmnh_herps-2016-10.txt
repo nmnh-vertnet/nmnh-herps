@@ -1,0 +1,124 @@
+Report for Institution Code USNM, Resource nmnh_herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 11885
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 53
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-31 ; Times: 2
+	Date: 2016-10-19 ; Times: 3
+	Date: 2016-10-03 ; Times: 16
+	Date: 2016-10-20 ; Times: 1
+	Date: 2016-10-24 ; Times: 5
+	Date: 2016-10-26 ; Times: 7
+	Date: 2016-10-09 ; Times: 20
+	Date: 2016-10-14 ; Times: 3
+	Date: 2016-10-05 ; Times: 17
+	Date: 2016-10-02 ; Times: 17
+	Date: 2016-10-10 ; Times: 4
+	Date: 2016-10-01 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: " Anolis chocorum 1" ; Times: 2
+	Query: " Rhaebo haematiticus 1" ; Times: 3
+	Query: " Anolis lemurinus 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: " specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 4
+	Query: " Agalychnis callidryas 1" ; Times: 1
+	Query: " Anolis capito 1" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 3
+	Query: "Epicrionops petersi " ; Times: 1
+	Query: " Anolis mariarum 1" ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: " Anolis bitectus 1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 3
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: " Anolis intermedius 1" ; Times: 1
+	Query: " Anolis ocelloscapularis 1" ; Times: 2
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: "Pristimantis achuar " ; Times: 1
+	Query: " Anolis allisoni 1" ; Times: 1
+	Query: "Dendropsophus xapuriensis " ; Times: 1
+	Query: " Teratohyla spinosa 1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 2
+	Query: " Anolis altae 1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Bufo mauritanicus 1" ; Times: 1
+	Query: " Anolis auratus 1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 2
+	Query: " Anolis liogaster 1" ; Times: 1
+	Query: " Anolis limifrons 1" ; Times: 1
+	Query: " Anolis apletophallus 1" ; Times: 1
+	Query: " Anolis wampuensis 1" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Chiasmocleis shudikarensis " ; Times: 1
+	Query: "Incilius valliceps" ; Times: 2
+	Query: "Adelastes hylonomos " ; Times: 2
+	Query: "Stefania evansi " ; Times: 1
+	Query: " Anolis centralis 1" ; Times: 1
+	Query: "Anolis tropidonotus 1" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: " Anolis sagrei 1" ; Times: 3
+	Query: " Anolis johnmeyeri 1" ; Times: 1
+	Query: "Anolis auratus 1" ; Times: 1
+	Query: "Macroprotodon mauritanicus 1" ; Times: 1
+	Query: " Anolis cristatellus 1" ; Times: 1
+	Query: "Parvimolge townsendi" ; Times: 1
+	Query: "Rhinella marina" ; Times: 3
+	Query: "specificepithet:mydas genus:Chelonia mappable:1" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta mappable:1" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: "Testudo marginata 1" ; Times: 1
+	Query: " Anolis fraseri 1" ; Times: 1
+	Query: "Phyllomedusa vaillantii " ; Times: 1
+	Query: "Lithobates catesbeianus 1" ; Times: 1
+	Query: " Anolis cusuco 1" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 2
+	Query: " Anolis tropidogaster 1" ; Times: 1
+	Query: "Plectrohyla arborescandens" ; Times: 1
+	Query: " Anolis chloris 1" ; Times: 1
+	Query: " Anolis nebulosus 1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 3
+	Query: "Pelophylax esculentus 1" ; Times: 1
+	Query: " Anolis aequatorialis 1" ; Times: 5
+	Query: " Anolis limon 1" ; Times: 1
+	Query: "Anolis humilis 1" ; Times: 1
+	Query: "Anolis carolinensis 1" ; Times: 1
+	Query: "sachin" ; Times: 2
+	Query: "Anolis cristatellus 1" ; Times: 3
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: " Anolis desechensis 1" ; Times: 2
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: " Anolis taylori 1" ; Times: 1
+	Query: "Pelophylax ridibundus 1" ; Times: 1
+	Query: " Anolis fuscoauratus 1" ; Times: 1
+	Query: " Anolis tropidolepis 1" ; Times: 1
+	Query: " Anolis gracilipes 1" ; Times: 1
+	Query: " Anolis frenatus 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
